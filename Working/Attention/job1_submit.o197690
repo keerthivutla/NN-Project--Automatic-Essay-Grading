@@ -1,0 +1,115 @@
+
+########################################################################
+#      Date:           Tue Nov 20 01:07:13 PST 2018
+#    Job ID:           197690.c009
+#      User:           u19159
+# Resources:           neednodes=1:ppn=2,nodes=1:ppn=2,vmem=92gb,walltime=24:00:00
+########################################################################
+
+Starting job
+After Embedding (?, ?, ?, 300)
+(2560, 50, 300)
+RNN OUTPUT SHAPE (2560, 50, 128)
+(2560, 1)
+(128, 20)
+(2560, 256)
+After Attention (2560, 256)
+(128, 5120)
+Predictions shape (128, 13)
+
+Epoch: 0/30 Train Loss: 2.363 Train Acc: 0.569
+Epoch: 0/30 Valid Loss: 2.216 Valid Acc: 0.660
+
+Epoch: 1/30 Train Loss: 2.231 Train Acc: 0.663
+Epoch: 1/30 Valid Loss: 2.164 Valid Acc: 0.665
+
+Epoch: 2/30 Train Loss: 2.200 Train Acc: 0.692
+Epoch: 2/30 Valid Loss: 2.147 Valid Acc: 0.698
+
+Epoch: 3/30 Train Loss: 2.183 Train Acc: 0.717
+Epoch: 3/30 Valid Loss: 2.138 Valid Acc: 0.758
+
+Epoch: 4/30 Train Loss: 2.174 Train Acc: 0.741
+Epoch: 4/30 Valid Loss: 2.133 Valid Acc: 0.787
+
+Epoch: 5/30 Train Loss: 2.169 Train Acc: 0.748
+Epoch: 5/30 Valid Loss: 2.127 Valid Acc: 0.811
+
+Epoch: 6/30 Train Loss: 2.164 Train Acc: 0.756
+Epoch: 6/30 Valid Loss: 2.123 Valid Acc: 0.815
+
+Epoch: 7/30 Train Loss: 2.170 Train Acc: 0.759
+Epoch: 7/30 Valid Loss: 2.121 Valid Acc: 0.814
+
+Epoch: 8/30 Train Loss: 2.167 Train Acc: 0.761
+Epoch: 8/30 Valid Loss: 2.120 Valid Acc: 0.813
+
+Epoch: 9/30 Train Loss: 2.157 Train Acc: 0.765
+Epoch: 9/30 Valid Loss: 2.117 Valid Acc: 0.814
+
+Epoch: 10/30 Train Loss: 2.153 Train Acc: 0.768
+Epoch: 10/30 Valid Loss: 2.113 Valid Acc: 0.812
+
+Epoch: 11/30 Train Loss: 2.155 Train Acc: 0.762
+Epoch: 11/30 Valid Loss: 2.112 Valid Acc: 0.802
+
+Epoch: 12/30 Train Loss: 2.149 Train Acc: 0.760
+Epoch: 12/30 Valid Loss: 2.110 Valid Acc: 0.801
+
+Epoch: 13/30 Train Loss: 2.150 Train Acc: 0.761
+Epoch: 13/30 Valid Loss: 2.108 Valid Acc: 0.801
+
+Epoch: 14/30 Train Loss: 2.146 Train Acc: 0.764
+Epoch: 14/30 Valid Loss: 2.105 Valid Acc: 0.801
+
+Epoch: 15/30 Train Loss: 2.143 Train Acc: 0.761
+Epoch: 15/30 Valid Loss: 2.102 Valid Acc: 0.792
+
+Epoch: 16/30 Train Loss: 2.133 Train Acc: 0.759
+Epoch: 16/30 Valid Loss: 2.102 Valid Acc: 0.785
+
+Epoch: 17/30 Train Loss: 2.133 Train Acc: 0.762
+Epoch: 17/30 Valid Loss: 2.096 Valid Acc: 0.784
+
+Epoch: 18/30 Train Loss: 2.128 Train Acc: 0.760
+Epoch: 18/30 Valid Loss: 2.095 Valid Acc: 0.779
+
+Epoch: 19/30 Train Loss: 2.125 Train Acc: 0.759
+Epoch: 19/30 Valid Loss: 2.092 Valid Acc: 0.775
+
+Epoch: 20/30 Train Loss: 2.126 Train Acc: 0.756
+Epoch: 20/30 Valid Loss: 2.088 Valid Acc: 0.776
+
+Epoch: 21/30 Train Loss: 2.121 Train Acc: 0.758
+Epoch: 21/30 Valid Loss: 2.086 Valid Acc: 0.771
+
+Epoch: 22/30 Train Loss: 2.119 Train Acc: 0.755
+Epoch: 22/30 Valid Loss: 2.083 Valid Acc: 0.770
+
+Epoch: 23/30 Train Loss: 2.117 Train Acc: 0.758
+Epoch: 23/30 Valid Loss: 2.081 Valid Acc: 0.769
+
+Epoch: 24/30 Train Loss: 2.113 Train Acc: 0.755
+Epoch: 24/30 Valid Loss: 2.080 Valid Acc: 0.767
+
+Epoch: 25/30 Train Loss: 2.112 Train Acc: 0.753
+Epoch: 25/30 Valid Loss: 2.080 Valid Acc: 0.763
+
+Epoch: 26/30 Train Loss: 2.108 Train Acc: 0.750
+Epoch: 26/30 Valid Loss: 2.076 Valid Acc: 0.764
+
+Epoch: 27/30 Train Loss: 2.104 Train Acc: 0.754
+Epoch: 27/30 Valid Loss: 2.072 Valid Acc: 0.764
+
+Epoch: 28/30 Train Loss: 2.101 Train Acc: 0.754
+Epoch: 28/30 Valid Loss: 2.070 Valid Acc: 0.763
+
+Epoch: 29/30 Train Loss: 2.100 Train Acc: 0.752
+Epoch: 29/30 Valid Loss: 2.064 Valid Acc: 0.764
+End of job
+
+########################################################################
+# End of output for job 197690.c009
+# Date: Tue Nov 20 01:30:14 PST 2018
+########################################################################
+

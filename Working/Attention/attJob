@@ -1,0 +1,6 @@
+#PBS -N job1_submit -l walltime=24:00:00
+echo Starting job
+#python /home/u19159/Project/check.py
+#python /home/u19159/Project/oneHot/main.py
+python /home/u19159/Project/Attention/main.py
+echo End of job

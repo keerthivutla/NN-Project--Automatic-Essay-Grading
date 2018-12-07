@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/u19159/Project/Attention/AttLogs/att_with_dropout/model.ckpt"
+all_model_checkpoint_paths: "/home/u19159/Project/Attention/AttLogs/att_with_dropout/model.ckpt"
